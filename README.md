@@ -4,9 +4,9 @@
 - Professor Leandro Leandro Vasconcelos Reis  
   
 - Autores:  
-[Felipe Macchi Zadorosny](https://github.com/FelipeMacchiz/)  
-[Gustavo da Silva Pereira]()  
-[Lucas Damião Martini]()  
+[Felipe Macchi Zadorosny](https://github.com/FelipeMacchiz)  
+[Gustavo da Silva Pereira](https://github.com/GuxtaGol)  
+[Lucas Damião Martini](https://github.com/lDamiaol)  
 [Matheus de Souza Zampieri]()  
   
 ### Configurar as máquinas virtuais  
